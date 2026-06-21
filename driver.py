@@ -1,6 +1,5 @@
 import torch
 import os
-import re
 import traceback
 import numpy as np
 import random
@@ -18,7 +17,6 @@ os.environ["no_proxy"]  = "127.0.0.1,localhost,::1"
 for k in ["HTTP_PROXY", "HTTPS_PROXY", "http_proxy", "https_proxy"]:
     os.environ.pop(k, None)
 brain_client = LLMClient(os.getenv("QWEN_API_BASE"), os.getenv("QWEN_API_KEY"), os.getenv("BRAIN_MODEL"))
-
 
 def set_seed(seed: int):
     torch.manual_seed(seed)
@@ -50,8 +48,10 @@ class train_Config:
         self.predict_batch_size = 32
         self.weight_decay = 5e-3
         self.gradient_clip_norm = 2.0
-        self.delta = 0.2
-        self.fixed_view_weights = (0.2, 0.2, 0.6)
+        self.fixed_view_weights = (0.15, 0.30, 0.55)
+        self.router_prob = 0.25
+        self.router_margin = 2.5
+        self.router_entropy = 0.25
         self.results_addr = f'results/{file_addr}'
         self.score_dump_addr = f'results/{file_addr}/score_dump_seed{random_seed}.npz'
 
@@ -78,6 +78,15 @@ def run(addr,seed):
     ref_seq, ref_label, tar_seq, tar_label = DPA(brain_client, file_addr, reference_dataset, target_dataset,  global_norm_factors)
     print("Use DPA to get sequences successfully")
 
+    gene_path = f"datasets/{file_addr}/knowledge/{ref_label[0]}/marker.txt"
+    if os.path.exists(gene_path):
+        print(f"[driver] Load outputs already exist for '{file_addr}', skipping.")
+    else:
+        raise FileNotFoundError(
+            f"Marker knowledge not found at {gene_path}. "
+            "Please generate marker.txt files before running driver.py."
+        )
+
     #load knowledge_acquire
     label_total, descriptions, markers = knowledge_acquire(file_addr)
     print("Get knowledges successfully")
@@ -90,12 +99,23 @@ def run(addr,seed):
     cell_knowledges = QVA(brain_client, file_addr, descriptions, cell_knowledges)
     print(f"Use QVA to update the cell texts successfully")
 
+    knowledge_path = f"datasets/{file_addr}/knowledge/gene_knowledge.json"
+    if not os.path.exists(knowledge_path):
+        raise FileNotFoundError(
+            f"Gene knowledge not found at {knowledge_path}. "
+            "Please generate gene_knowledge.json before running driver.py."
+        )
+
     gene_knowledges = load_gene_knowledge(file_addr)
     print(f"Load gene knowledge: {len(gene_knowledges)} genes")
 
     run_scAnnoModel(file_addr, gene_knowledges, cell_knowledges, ref_seq, ref_label, tar_seq, tar_label, config)
 
 if __name__ == "__main__":
+    is_list= 0
+    addr_list = ['HOCA','retina','liver','HSPC','Ovary','Fovea Centralis','Lung','colorectum']
+    seed_list = [32,42,52]
+
     addr = 'retina'
     seed = 42
     run(addr, seed)
