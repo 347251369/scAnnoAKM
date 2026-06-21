@@ -1,0 +1,10 @@
+Datasets: Cell Types of the Human Retina and Its Organoids at Single-Cell Resolution
+
+Fovea - Cell Types of the Human Retina and Its Organoids at Single-Cell Resolution
+fovea centralis
+normal
+10x 3' v2
+Homo sapiens
+19,768
+
+Link:https://www.sciencedirect.com/science/article/pii/S0092867420310047?via%3Dihub

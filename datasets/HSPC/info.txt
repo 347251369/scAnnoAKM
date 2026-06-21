@@ -1,0 +1,10 @@
+Datasets: Blood and immune development in human fetal bone marrow and Down syndrome
+
+CD34+ Fetal Bone Marrow, Fetal Liver, Cord Blood (CITE-seq)
+3 tissues
+normal
+10x 3' v3
+Homo sapiens
+27,998
+
+Link: https://www.nature.com/articles/s41586-021-03929-x

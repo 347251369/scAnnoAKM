@@ -1,0 +1,14 @@
+Dataset: Tabula Sapiens
+Subset title: Tabula Sapiens - Neural
+Tissue: eye; large intestine; small intestine; lacrimal gland; retinal neural layer; sclera; sigmoid colon; ileum; anterior segment of eyeball; ascending colon; right cardiac atrium; heart right ventricle; heart; duodenum; posterior segment of eyeball; cornea
+Disease: normal
+Assay: Smart-seq2; 10x 3' v3
+Organism: Homo sapiens
+Cells: 2,685
+Genes: 60,606
+Donors: 8
+Cell-type categories in data.h5ad: 7
+Cell-type categories used in this project: 4
+Used cell types: eye photoreceptor cell; enteroglial cell; neuron; retinal bipolar neuron
+Source DOI: https://doi.org/10.1126/science.abl4896
+CELLxGENE collection: https://cellxgene.cziscience.com/collections/e5f58829-1a66-40b5-a624-9046778e74f5

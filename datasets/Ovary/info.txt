@@ -1,0 +1,14 @@
+Dataset: Single-cell reconstruction of follicular remodeling in the human adult ovary
+Subset title: Single-cell reconstruction of follicular remodeling in the human adult ovary
+Tissue: ovary
+Disease: normal
+Assay: 10x 3' v2
+Organism: Homo sapiens
+Cells: 20,676
+Genes: 32,088
+Donors: 5
+Cell-type categories in data.h5ad: 9
+Cell-type categories used in this project: 6
+Used cell types: stromal cell of ovary; granulosa cell; theca cell; endothelial cell; T cell; smooth muscle cell
+Source DOI: https://doi.org/10.1038/s41467-019-11036-9
+CELLxGENE collection: https://cellxgene.cziscience.com/collections/2902f08c-f83c-470e-a541-e463e25e5058
