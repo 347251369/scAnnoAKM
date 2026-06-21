@@ -1,0 +1,14 @@
+Dataset: A human fetal lung cell atlas uncovers proximal-distal gradients of differentiation
+Subset title: Fibroblast and smooth muscle
+Tissue: lung
+Disease: normal
+Assay: 10x 5' v1
+Organism: Homo sapiens
+Cells: 39,204
+Genes: 23,323
+Donors: 13
+Cell-type categories in data.h5ad: 11
+Cell-type categories used in this project: 7
+Used cell types: fibroblast of lung; pulmonary interstitial fibroblast; tracheobronchial smooth muscle cell; pericyte; myofibroblast cell; vascular associated smooth muscle cell; smooth muscle cell
+Source DOI: https://doi.org/10.1016/j.cell.2022.11.005
+CELLxGENE collection: https://cellxgene.cziscience.com/collections/2d2e2acd-dade-489f-a2da-6c11aa654028

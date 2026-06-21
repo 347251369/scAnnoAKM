@@ -1,0 +1,12 @@
+Datasets: Spatially organized multicellular immune hubs in human colorectal cancer
+
+Stromal cells
+colorectum
+colon adenocarcinoma
+normal
+10x 3' v2
+10x 3' v3
+Homo sapiens
+15,438
+
+Link: https://www.sciencedirect.com/science/article/pii/S0092867421009454?via%3Dihub
