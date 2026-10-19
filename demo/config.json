@@ -1,0 +1,25 @@
+{
+  "seed": 42,
+  "seq_len": 2000,
+  "marker_len": 50,
+  "class_order": [
+    "eye photoreceptor cell",
+    "enteroglial cell",
+    "neuron",
+    "retinal bipolar neuron",
+    "radial glial cell",
+    "retina horizontal cell"
+  ],
+  "checkpoint": "weights/train_model_seed42.pth",
+  "gene_info": "resources/gene_info.json",
+  "cell_knowledge": "resources/cell_knowledge.json",
+  "input": "examples/ranked_genes.jsonl",
+  "models": {
+    "biobert_config": "models/biobert/config.json",
+    "tokenizer": "models/tokenizer",
+    "gene_token_dictionary": "models/gene_token_dictionary.json",
+    "geneformer_config": "models/geneformer/config.json"
+  },
+  "attention_implementation": "sdpa",
+  "inference_policy": "published_numpy_and_router: view_weights=(0.15,0.30,0.55), probability>=0.25, population-standardized margin>=2.5, normalized entropy<=0.25; constants in paper_route"
+}

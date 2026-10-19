@@ -1,0 +1,6 @@
+weights/*.pth
+weights/*.part
+__pycache__/
+*.pyc
+.venv/
+output/

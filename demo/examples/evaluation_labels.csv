@@ -1,0 +1,820 @@
+cell_id,true_label,seen
+retina_target_row_0000,enteroglial cell,true
+retina_target_row_0001,eye photoreceptor cell,true
+retina_target_row_0002,enteroglial cell,true
+retina_target_row_0003,eye photoreceptor cell,true
+retina_target_row_0004,eye photoreceptor cell,true
+retina_target_row_0005,eye photoreceptor cell,true
+retina_target_row_0006,eye photoreceptor cell,true
+retina_target_row_0007,enteroglial cell,true
+retina_target_row_0008,neuron,true
+retina_target_row_0009,eye photoreceptor cell,true
+retina_target_row_0010,eye photoreceptor cell,true
+retina_target_row_0011,eye photoreceptor cell,true
+retina_target_row_0012,enteroglial cell,true
+retina_target_row_0013,enteroglial cell,true
+retina_target_row_0014,enteroglial cell,true
+retina_target_row_0015,enteroglial cell,true
+retina_target_row_0016,eye photoreceptor cell,true
+retina_target_row_0017,enteroglial cell,true
+retina_target_row_0018,enteroglial cell,true
+retina_target_row_0019,eye photoreceptor cell,true
+retina_target_row_0020,eye photoreceptor cell,true
+retina_target_row_0021,enteroglial cell,true
+retina_target_row_0022,radial glial cell,false
+retina_target_row_0023,eye photoreceptor cell,true
+retina_target_row_0024,enteroglial cell,true
+retina_target_row_0025,eye photoreceptor cell,true
+retina_target_row_0026,enteroglial cell,true
+retina_target_row_0027,enteroglial cell,true
+retina_target_row_0028,enteroglial cell,true
+retina_target_row_0029,enteroglial cell,true
+retina_target_row_0030,enteroglial cell,true
+retina_target_row_0031,eye photoreceptor cell,true
+retina_target_row_0032,eye photoreceptor cell,true
+retina_target_row_0033,eye photoreceptor cell,true
+retina_target_row_0034,enteroglial cell,true
+retina_target_row_0035,eye photoreceptor cell,true
+retina_target_row_0036,enteroglial cell,true
+retina_target_row_0037,neuron,true
+retina_target_row_0038,eye photoreceptor cell,true
+retina_target_row_0039,enteroglial cell,true
+retina_target_row_0040,eye photoreceptor cell,true
+retina_target_row_0041,eye photoreceptor cell,true
+retina_target_row_0042,eye photoreceptor cell,true
+retina_target_row_0043,enteroglial cell,true
+retina_target_row_0044,enteroglial cell,true
+retina_target_row_0045,eye photoreceptor cell,true
+retina_target_row_0046,eye photoreceptor cell,true
+retina_target_row_0047,eye photoreceptor cell,true
+retina_target_row_0048,eye photoreceptor cell,true
+retina_target_row_0049,retinal bipolar neuron,true
+retina_target_row_0050,enteroglial cell,true
+retina_target_row_0051,eye photoreceptor cell,true
+retina_target_row_0052,eye photoreceptor cell,true
+retina_target_row_0053,eye photoreceptor cell,true
+retina_target_row_0054,enteroglial cell,true
+retina_target_row_0055,eye photoreceptor cell,true
+retina_target_row_0056,eye photoreceptor cell,true
+retina_target_row_0057,eye photoreceptor cell,true
+retina_target_row_0058,eye photoreceptor cell,true
+retina_target_row_0059,neuron,true
+retina_target_row_0060,enteroglial cell,true
+retina_target_row_0061,enteroglial cell,true
+retina_target_row_0062,eye photoreceptor cell,true
+retina_target_row_0063,eye photoreceptor cell,true
+retina_target_row_0064,eye photoreceptor cell,true
+retina_target_row_0065,enteroglial cell,true
+retina_target_row_0066,eye photoreceptor cell,true
+retina_target_row_0067,enteroglial cell,true
+retina_target_row_0068,neuron,true
+retina_target_row_0069,eye photoreceptor cell,true
+retina_target_row_0070,eye photoreceptor cell,true
+retina_target_row_0071,eye photoreceptor cell,true
+retina_target_row_0072,enteroglial cell,true
+retina_target_row_0073,enteroglial cell,true
+retina_target_row_0074,enteroglial cell,true
+retina_target_row_0075,enteroglial cell,true
+retina_target_row_0076,eye photoreceptor cell,true
+retina_target_row_0077,enteroglial cell,true
+retina_target_row_0078,eye photoreceptor cell,true
+retina_target_row_0079,eye photoreceptor cell,true
+retina_target_row_0080,enteroglial cell,true
+retina_target_row_0081,eye photoreceptor cell,true
+retina_target_row_0082,eye photoreceptor cell,true
+retina_target_row_0083,eye photoreceptor cell,true
+retina_target_row_0084,eye photoreceptor cell,true
+retina_target_row_0085,enteroglial cell,true
+retina_target_row_0086,eye photoreceptor cell,true
+retina_target_row_0087,eye photoreceptor cell,true
+retina_target_row_0088,enteroglial cell,true
+retina_target_row_0089,enteroglial cell,true
+retina_target_row_0090,eye photoreceptor cell,true
+retina_target_row_0091,eye photoreceptor cell,true
+retina_target_row_0092,enteroglial cell,true
+retina_target_row_0093,enteroglial cell,true
+retina_target_row_0094,eye photoreceptor cell,true
+retina_target_row_0095,enteroglial cell,true
+retina_target_row_0096,eye photoreceptor cell,true
+retina_target_row_0097,eye photoreceptor cell,true
+retina_target_row_0098,enteroglial cell,true
+retina_target_row_0099,eye photoreceptor cell,true
+retina_target_row_0100,enteroglial cell,true
+retina_target_row_0101,eye photoreceptor cell,true
+retina_target_row_0102,enteroglial cell,true
+retina_target_row_0103,eye photoreceptor cell,true
+retina_target_row_0104,eye photoreceptor cell,true
+retina_target_row_0105,eye photoreceptor cell,true
+retina_target_row_0106,enteroglial cell,true
+retina_target_row_0107,enteroglial cell,true
+retina_target_row_0108,enteroglial cell,true
+retina_target_row_0109,enteroglial cell,true
+retina_target_row_0110,enteroglial cell,true
+retina_target_row_0111,enteroglial cell,true
+retina_target_row_0112,enteroglial cell,true
+retina_target_row_0113,enteroglial cell,true
+retina_target_row_0114,eye photoreceptor cell,true
+retina_target_row_0115,eye photoreceptor cell,true
+retina_target_row_0116,eye photoreceptor cell,true
+retina_target_row_0117,eye photoreceptor cell,true
+retina_target_row_0118,eye photoreceptor cell,true
+retina_target_row_0119,eye photoreceptor cell,true
+retina_target_row_0120,eye photoreceptor cell,true
+retina_target_row_0121,eye photoreceptor cell,true
+retina_target_row_0122,enteroglial cell,true
+retina_target_row_0123,eye photoreceptor cell,true
+retina_target_row_0124,eye photoreceptor cell,true
+retina_target_row_0125,eye photoreceptor cell,true
+retina_target_row_0126,enteroglial cell,true
+retina_target_row_0127,enteroglial cell,true
+retina_target_row_0128,eye photoreceptor cell,true
+retina_target_row_0129,enteroglial cell,true
+retina_target_row_0130,eye photoreceptor cell,true
+retina_target_row_0131,neuron,true
+retina_target_row_0132,neuron,true
+retina_target_row_0133,enteroglial cell,true
+retina_target_row_0134,eye photoreceptor cell,true
+retina_target_row_0135,eye photoreceptor cell,true
+retina_target_row_0136,eye photoreceptor cell,true
+retina_target_row_0137,eye photoreceptor cell,true
+retina_target_row_0138,enteroglial cell,true
+retina_target_row_0139,enteroglial cell,true
+retina_target_row_0140,enteroglial cell,true
+retina_target_row_0141,eye photoreceptor cell,true
+retina_target_row_0142,retinal bipolar neuron,true
+retina_target_row_0143,eye photoreceptor cell,true
+retina_target_row_0144,eye photoreceptor cell,true
+retina_target_row_0145,enteroglial cell,true
+retina_target_row_0146,eye photoreceptor cell,true
+retina_target_row_0147,enteroglial cell,true
+retina_target_row_0148,eye photoreceptor cell,true
+retina_target_row_0149,enteroglial cell,true
+retina_target_row_0150,eye photoreceptor cell,true
+retina_target_row_0151,neuron,true
+retina_target_row_0152,eye photoreceptor cell,true
+retina_target_row_0153,eye photoreceptor cell,true
+retina_target_row_0154,enteroglial cell,true
+retina_target_row_0155,enteroglial cell,true
+retina_target_row_0156,retina horizontal cell,false
+retina_target_row_0157,eye photoreceptor cell,true
+retina_target_row_0158,eye photoreceptor cell,true
+retina_target_row_0159,eye photoreceptor cell,true
+retina_target_row_0160,enteroglial cell,true
+retina_target_row_0161,enteroglial cell,true
+retina_target_row_0162,eye photoreceptor cell,true
+retina_target_row_0163,eye photoreceptor cell,true
+retina_target_row_0164,eye photoreceptor cell,true
+retina_target_row_0165,eye photoreceptor cell,true
+retina_target_row_0166,enteroglial cell,true
+retina_target_row_0167,eye photoreceptor cell,true
+retina_target_row_0168,enteroglial cell,true
+retina_target_row_0169,enteroglial cell,true
+retina_target_row_0170,eye photoreceptor cell,true
+retina_target_row_0171,enteroglial cell,true
+retina_target_row_0172,eye photoreceptor cell,true
+retina_target_row_0173,eye photoreceptor cell,true
+retina_target_row_0174,eye photoreceptor cell,true
+retina_target_row_0175,enteroglial cell,true
+retina_target_row_0176,eye photoreceptor cell,true
+retina_target_row_0177,enteroglial cell,true
+retina_target_row_0178,eye photoreceptor cell,true
+retina_target_row_0179,neuron,true
+retina_target_row_0180,neuron,true
+retina_target_row_0181,eye photoreceptor cell,true
+retina_target_row_0182,enteroglial cell,true
+retina_target_row_0183,enteroglial cell,true
+retina_target_row_0184,eye photoreceptor cell,true
+retina_target_row_0185,retinal bipolar neuron,true
+retina_target_row_0186,radial glial cell,false
+retina_target_row_0187,enteroglial cell,true
+retina_target_row_0188,eye photoreceptor cell,true
+retina_target_row_0189,enteroglial cell,true
+retina_target_row_0190,eye photoreceptor cell,true
+retina_target_row_0191,eye photoreceptor cell,true
+retina_target_row_0192,eye photoreceptor cell,true
+retina_target_row_0193,eye photoreceptor cell,true
+retina_target_row_0194,eye photoreceptor cell,true
+retina_target_row_0195,enteroglial cell,true
+retina_target_row_0196,enteroglial cell,true
+retina_target_row_0197,enteroglial cell,true
+retina_target_row_0198,eye photoreceptor cell,true
+retina_target_row_0199,eye photoreceptor cell,true
+retina_target_row_0200,enteroglial cell,true
+retina_target_row_0201,enteroglial cell,true
+retina_target_row_0202,enteroglial cell,true
+retina_target_row_0203,eye photoreceptor cell,true
+retina_target_row_0204,eye photoreceptor cell,true
+retina_target_row_0205,eye photoreceptor cell,true
+retina_target_row_0206,eye photoreceptor cell,true
+retina_target_row_0207,enteroglial cell,true
+retina_target_row_0208,eye photoreceptor cell,true
+retina_target_row_0209,eye photoreceptor cell,true
+retina_target_row_0210,eye photoreceptor cell,true
+retina_target_row_0211,enteroglial cell,true
+retina_target_row_0212,eye photoreceptor cell,true
+retina_target_row_0213,enteroglial cell,true
+retina_target_row_0214,eye photoreceptor cell,true
+retina_target_row_0215,enteroglial cell,true
+retina_target_row_0216,eye photoreceptor cell,true
+retina_target_row_0217,neuron,true
+retina_target_row_0218,enteroglial cell,true
+retina_target_row_0219,enteroglial cell,true
+retina_target_row_0220,enteroglial cell,true
+retina_target_row_0221,enteroglial cell,true
+retina_target_row_0222,enteroglial cell,true
+retina_target_row_0223,enteroglial cell,true
+retina_target_row_0224,eye photoreceptor cell,true
+retina_target_row_0225,eye photoreceptor cell,true
+retina_target_row_0226,eye photoreceptor cell,true
+retina_target_row_0227,enteroglial cell,true
+retina_target_row_0228,eye photoreceptor cell,true
+retina_target_row_0229,eye photoreceptor cell,true
+retina_target_row_0230,eye photoreceptor cell,true
+retina_target_row_0231,eye photoreceptor cell,true
+retina_target_row_0232,eye photoreceptor cell,true
+retina_target_row_0233,eye photoreceptor cell,true
+retina_target_row_0234,eye photoreceptor cell,true
+retina_target_row_0235,eye photoreceptor cell,true
+retina_target_row_0236,enteroglial cell,true
+retina_target_row_0237,enteroglial cell,true
+retina_target_row_0238,eye photoreceptor cell,true
+retina_target_row_0239,eye photoreceptor cell,true
+retina_target_row_0240,enteroglial cell,true
+retina_target_row_0241,eye photoreceptor cell,true
+retina_target_row_0242,eye photoreceptor cell,true
+retina_target_row_0243,eye photoreceptor cell,true
+retina_target_row_0244,eye photoreceptor cell,true
+retina_target_row_0245,eye photoreceptor cell,true
+retina_target_row_0246,eye photoreceptor cell,true
+retina_target_row_0247,eye photoreceptor cell,true
+retina_target_row_0248,eye photoreceptor cell,true
+retina_target_row_0249,eye photoreceptor cell,true
+retina_target_row_0250,eye photoreceptor cell,true
+retina_target_row_0251,enteroglial cell,true
+retina_target_row_0252,enteroglial cell,true
+retina_target_row_0253,enteroglial cell,true
+retina_target_row_0254,eye photoreceptor cell,true
+retina_target_row_0255,eye photoreceptor cell,true
+retina_target_row_0256,retinal bipolar neuron,true
+retina_target_row_0257,enteroglial cell,true
+retina_target_row_0258,enteroglial cell,true
+retina_target_row_0259,enteroglial cell,true
+retina_target_row_0260,eye photoreceptor cell,true
+retina_target_row_0261,enteroglial cell,true
+retina_target_row_0262,eye photoreceptor cell,true
+retina_target_row_0263,eye photoreceptor cell,true
+retina_target_row_0264,enteroglial cell,true
+retina_target_row_0265,eye photoreceptor cell,true
+retina_target_row_0266,enteroglial cell,true
+retina_target_row_0267,enteroglial cell,true
+retina_target_row_0268,eye photoreceptor cell,true
+retina_target_row_0269,eye photoreceptor cell,true
+retina_target_row_0270,eye photoreceptor cell,true
+retina_target_row_0271,enteroglial cell,true
+retina_target_row_0272,eye photoreceptor cell,true
+retina_target_row_0273,enteroglial cell,true
+retina_target_row_0274,eye photoreceptor cell,true
+retina_target_row_0275,eye photoreceptor cell,true
+retina_target_row_0276,enteroglial cell,true
+retina_target_row_0277,enteroglial cell,true
+retina_target_row_0278,eye photoreceptor cell,true
+retina_target_row_0279,retinal bipolar neuron,true
+retina_target_row_0280,eye photoreceptor cell,true
+retina_target_row_0281,enteroglial cell,true
+retina_target_row_0282,eye photoreceptor cell,true
+retina_target_row_0283,eye photoreceptor cell,true
+retina_target_row_0284,enteroglial cell,true
+retina_target_row_0285,retinal bipolar neuron,true
+retina_target_row_0286,eye photoreceptor cell,true
+retina_target_row_0287,eye photoreceptor cell,true
+retina_target_row_0288,eye photoreceptor cell,true
+retina_target_row_0289,eye photoreceptor cell,true
+retina_target_row_0290,enteroglial cell,true
+retina_target_row_0291,enteroglial cell,true
+retina_target_row_0292,eye photoreceptor cell,true
+retina_target_row_0293,enteroglial cell,true
+retina_target_row_0294,enteroglial cell,true
+retina_target_row_0295,enteroglial cell,true
+retina_target_row_0296,eye photoreceptor cell,true
+retina_target_row_0297,eye photoreceptor cell,true
+retina_target_row_0298,eye photoreceptor cell,true
+retina_target_row_0299,eye photoreceptor cell,true
+retina_target_row_0300,eye photoreceptor cell,true
+retina_target_row_0301,enteroglial cell,true
+retina_target_row_0302,eye photoreceptor cell,true
+retina_target_row_0303,eye photoreceptor cell,true
+retina_target_row_0304,eye photoreceptor cell,true
+retina_target_row_0305,eye photoreceptor cell,true
+retina_target_row_0306,eye photoreceptor cell,true
+retina_target_row_0307,eye photoreceptor cell,true
+retina_target_row_0308,eye photoreceptor cell,true
+retina_target_row_0309,enteroglial cell,true
+retina_target_row_0310,eye photoreceptor cell,true
+retina_target_row_0311,enteroglial cell,true
+retina_target_row_0312,eye photoreceptor cell,true
+retina_target_row_0313,eye photoreceptor cell,true
+retina_target_row_0314,eye photoreceptor cell,true
+retina_target_row_0315,eye photoreceptor cell,true
+retina_target_row_0316,enteroglial cell,true
+retina_target_row_0317,enteroglial cell,true
+retina_target_row_0318,eye photoreceptor cell,true
+retina_target_row_0319,enteroglial cell,true
+retina_target_row_0320,retinal bipolar neuron,true
+retina_target_row_0321,enteroglial cell,true
+retina_target_row_0322,eye photoreceptor cell,true
+retina_target_row_0323,enteroglial cell,true
+retina_target_row_0324,eye photoreceptor cell,true
+retina_target_row_0325,enteroglial cell,true
+retina_target_row_0326,eye photoreceptor cell,true
+retina_target_row_0327,eye photoreceptor cell,true
+retina_target_row_0328,eye photoreceptor cell,true
+retina_target_row_0329,retinal bipolar neuron,true
+retina_target_row_0330,eye photoreceptor cell,true
+retina_target_row_0331,eye photoreceptor cell,true
+retina_target_row_0332,enteroglial cell,true
+retina_target_row_0333,enteroglial cell,true
+retina_target_row_0334,eye photoreceptor cell,true
+retina_target_row_0335,enteroglial cell,true
+retina_target_row_0336,enteroglial cell,true
+retina_target_row_0337,eye photoreceptor cell,true
+retina_target_row_0338,eye photoreceptor cell,true
+retina_target_row_0339,eye photoreceptor cell,true
+retina_target_row_0340,eye photoreceptor cell,true
+retina_target_row_0341,eye photoreceptor cell,true
+retina_target_row_0342,enteroglial cell,true
+retina_target_row_0343,eye photoreceptor cell,true
+retina_target_row_0344,eye photoreceptor cell,true
+retina_target_row_0345,eye photoreceptor cell,true
+retina_target_row_0346,enteroglial cell,true
+retina_target_row_0347,enteroglial cell,true
+retina_target_row_0348,enteroglial cell,true
+retina_target_row_0349,eye photoreceptor cell,true
+retina_target_row_0350,eye photoreceptor cell,true
+retina_target_row_0351,enteroglial cell,true
+retina_target_row_0352,enteroglial cell,true
+retina_target_row_0353,neuron,true
+retina_target_row_0354,enteroglial cell,true
+retina_target_row_0355,eye photoreceptor cell,true
+retina_target_row_0356,eye photoreceptor cell,true
+retina_target_row_0357,eye photoreceptor cell,true
+retina_target_row_0358,eye photoreceptor cell,true
+retina_target_row_0359,eye photoreceptor cell,true
+retina_target_row_0360,eye photoreceptor cell,true
+retina_target_row_0361,eye photoreceptor cell,true
+retina_target_row_0362,enteroglial cell,true
+retina_target_row_0363,enteroglial cell,true
+retina_target_row_0364,eye photoreceptor cell,true
+retina_target_row_0365,enteroglial cell,true
+retina_target_row_0366,eye photoreceptor cell,true
+retina_target_row_0367,eye photoreceptor cell,true
+retina_target_row_0368,neuron,true
+retina_target_row_0369,eye photoreceptor cell,true
+retina_target_row_0370,enteroglial cell,true
+retina_target_row_0371,eye photoreceptor cell,true
+retina_target_row_0372,enteroglial cell,true
+retina_target_row_0373,eye photoreceptor cell,true
+retina_target_row_0374,enteroglial cell,true
+retina_target_row_0375,enteroglial cell,true
+retina_target_row_0376,eye photoreceptor cell,true
+retina_target_row_0377,eye photoreceptor cell,true
+retina_target_row_0378,enteroglial cell,true
+retina_target_row_0379,eye photoreceptor cell,true
+retina_target_row_0380,neuron,true
+retina_target_row_0381,enteroglial cell,true
+retina_target_row_0382,retinal bipolar neuron,true
+retina_target_row_0383,eye photoreceptor cell,true
+retina_target_row_0384,eye photoreceptor cell,true
+retina_target_row_0385,eye photoreceptor cell,true
+retina_target_row_0386,enteroglial cell,true
+retina_target_row_0387,eye photoreceptor cell,true
+retina_target_row_0388,eye photoreceptor cell,true
+retina_target_row_0389,eye photoreceptor cell,true
+retina_target_row_0390,enteroglial cell,true
+retina_target_row_0391,eye photoreceptor cell,true
+retina_target_row_0392,enteroglial cell,true
+retina_target_row_0393,eye photoreceptor cell,true
+retina_target_row_0394,enteroglial cell,true
+retina_target_row_0395,eye photoreceptor cell,true
+retina_target_row_0396,eye photoreceptor cell,true
+retina_target_row_0397,eye photoreceptor cell,true
+retina_target_row_0398,eye photoreceptor cell,true
+retina_target_row_0399,enteroglial cell,true
+retina_target_row_0400,eye photoreceptor cell,true
+retina_target_row_0401,enteroglial cell,true
+retina_target_row_0402,enteroglial cell,true
+retina_target_row_0403,eye photoreceptor cell,true
+retina_target_row_0404,enteroglial cell,true
+retina_target_row_0405,eye photoreceptor cell,true
+retina_target_row_0406,enteroglial cell,true
+retina_target_row_0407,enteroglial cell,true
+retina_target_row_0408,eye photoreceptor cell,true
+retina_target_row_0409,enteroglial cell,true
+retina_target_row_0410,eye photoreceptor cell,true
+retina_target_row_0411,eye photoreceptor cell,true
+retina_target_row_0412,enteroglial cell,true
+retina_target_row_0413,eye photoreceptor cell,true
+retina_target_row_0414,eye photoreceptor cell,true
+retina_target_row_0415,eye photoreceptor cell,true
+retina_target_row_0416,eye photoreceptor cell,true
+retina_target_row_0417,enteroglial cell,true
+retina_target_row_0418,eye photoreceptor cell,true
+retina_target_row_0419,enteroglial cell,true
+retina_target_row_0420,enteroglial cell,true
+retina_target_row_0421,enteroglial cell,true
+retina_target_row_0422,neuron,true
+retina_target_row_0423,eye photoreceptor cell,true
+retina_target_row_0424,eye photoreceptor cell,true
+retina_target_row_0425,enteroglial cell,true
+retina_target_row_0426,enteroglial cell,true
+retina_target_row_0427,eye photoreceptor cell,true
+retina_target_row_0428,eye photoreceptor cell,true
+retina_target_row_0429,enteroglial cell,true
+retina_target_row_0430,eye photoreceptor cell,true
+retina_target_row_0431,eye photoreceptor cell,true
+retina_target_row_0432,eye photoreceptor cell,true
+retina_target_row_0433,eye photoreceptor cell,true
+retina_target_row_0434,retinal bipolar neuron,true
+retina_target_row_0435,retinal bipolar neuron,true
+retina_target_row_0436,enteroglial cell,true
+retina_target_row_0437,enteroglial cell,true
+retina_target_row_0438,enteroglial cell,true
+retina_target_row_0439,eye photoreceptor cell,true
+retina_target_row_0440,eye photoreceptor cell,true
+retina_target_row_0441,enteroglial cell,true
+retina_target_row_0442,eye photoreceptor cell,true
+retina_target_row_0443,eye photoreceptor cell,true
+retina_target_row_0444,enteroglial cell,true
+retina_target_row_0445,eye photoreceptor cell,true
+retina_target_row_0446,enteroglial cell,true
+retina_target_row_0447,eye photoreceptor cell,true
+retina_target_row_0448,eye photoreceptor cell,true
+retina_target_row_0449,eye photoreceptor cell,true
+retina_target_row_0450,eye photoreceptor cell,true
+retina_target_row_0451,eye photoreceptor cell,true
+retina_target_row_0452,enteroglial cell,true
+retina_target_row_0453,enteroglial cell,true
+retina_target_row_0454,enteroglial cell,true
+retina_target_row_0455,eye photoreceptor cell,true
+retina_target_row_0456,eye photoreceptor cell,true
+retina_target_row_0457,eye photoreceptor cell,true
+retina_target_row_0458,enteroglial cell,true
+retina_target_row_0459,eye photoreceptor cell,true
+retina_target_row_0460,eye photoreceptor cell,true
+retina_target_row_0461,enteroglial cell,true
+retina_target_row_0462,eye photoreceptor cell,true
+retina_target_row_0463,eye photoreceptor cell,true
+retina_target_row_0464,eye photoreceptor cell,true
+retina_target_row_0465,enteroglial cell,true
+retina_target_row_0466,enteroglial cell,true
+retina_target_row_0467,enteroglial cell,true
+retina_target_row_0468,eye photoreceptor cell,true
+retina_target_row_0469,eye photoreceptor cell,true
+retina_target_row_0470,eye photoreceptor cell,true
+retina_target_row_0471,eye photoreceptor cell,true
+retina_target_row_0472,eye photoreceptor cell,true
+retina_target_row_0473,eye photoreceptor cell,true
+retina_target_row_0474,eye photoreceptor cell,true
+retina_target_row_0475,enteroglial cell,true
+retina_target_row_0476,enteroglial cell,true
+retina_target_row_0477,eye photoreceptor cell,true
+retina_target_row_0478,enteroglial cell,true
+retina_target_row_0479,eye photoreceptor cell,true
+retina_target_row_0480,eye photoreceptor cell,true
+retina_target_row_0481,enteroglial cell,true
+retina_target_row_0482,neuron,true
+retina_target_row_0483,eye photoreceptor cell,true
+retina_target_row_0484,eye photoreceptor cell,true
+retina_target_row_0485,enteroglial cell,true
+retina_target_row_0486,eye photoreceptor cell,true
+retina_target_row_0487,enteroglial cell,true
+retina_target_row_0488,enteroglial cell,true
+retina_target_row_0489,enteroglial cell,true
+retina_target_row_0490,eye photoreceptor cell,true
+retina_target_row_0491,eye photoreceptor cell,true
+retina_target_row_0492,eye photoreceptor cell,true
+retina_target_row_0493,eye photoreceptor cell,true
+retina_target_row_0494,eye photoreceptor cell,true
+retina_target_row_0495,eye photoreceptor cell,true
+retina_target_row_0496,eye photoreceptor cell,true
+retina_target_row_0497,eye photoreceptor cell,true
+retina_target_row_0498,eye photoreceptor cell,true
+retina_target_row_0499,enteroglial cell,true
+retina_target_row_0500,enteroglial cell,true
+retina_target_row_0501,enteroglial cell,true
+retina_target_row_0502,enteroglial cell,true
+retina_target_row_0503,enteroglial cell,true
+retina_target_row_0504,eye photoreceptor cell,true
+retina_target_row_0505,eye photoreceptor cell,true
+retina_target_row_0506,eye photoreceptor cell,true
+retina_target_row_0507,eye photoreceptor cell,true
+retina_target_row_0508,retinal bipolar neuron,true
+retina_target_row_0509,enteroglial cell,true
+retina_target_row_0510,enteroglial cell,true
+retina_target_row_0511,eye photoreceptor cell,true
+retina_target_row_0512,enteroglial cell,true
+retina_target_row_0513,eye photoreceptor cell,true
+retina_target_row_0514,enteroglial cell,true
+retina_target_row_0515,enteroglial cell,true
+retina_target_row_0516,eye photoreceptor cell,true
+retina_target_row_0517,eye photoreceptor cell,true
+retina_target_row_0518,enteroglial cell,true
+retina_target_row_0519,eye photoreceptor cell,true
+retina_target_row_0520,enteroglial cell,true
+retina_target_row_0521,eye photoreceptor cell,true
+retina_target_row_0522,eye photoreceptor cell,true
+retina_target_row_0523,enteroglial cell,true
+retina_target_row_0524,eye photoreceptor cell,true
+retina_target_row_0525,eye photoreceptor cell,true
+retina_target_row_0526,enteroglial cell,true
+retina_target_row_0527,enteroglial cell,true
+retina_target_row_0528,eye photoreceptor cell,true
+retina_target_row_0529,eye photoreceptor cell,true
+retina_target_row_0530,eye photoreceptor cell,true
+retina_target_row_0531,eye photoreceptor cell,true
+retina_target_row_0532,enteroglial cell,true
+retina_target_row_0533,eye photoreceptor cell,true
+retina_target_row_0534,eye photoreceptor cell,true
+retina_target_row_0535,eye photoreceptor cell,true
+retina_target_row_0536,eye photoreceptor cell,true
+retina_target_row_0537,eye photoreceptor cell,true
+retina_target_row_0538,eye photoreceptor cell,true
+retina_target_row_0539,enteroglial cell,true
+retina_target_row_0540,eye photoreceptor cell,true
+retina_target_row_0541,enteroglial cell,true
+retina_target_row_0542,enteroglial cell,true
+retina_target_row_0543,enteroglial cell,true
+retina_target_row_0544,enteroglial cell,true
+retina_target_row_0545,eye photoreceptor cell,true
+retina_target_row_0546,neuron,true
+retina_target_row_0547,enteroglial cell,true
+retina_target_row_0548,enteroglial cell,true
+retina_target_row_0549,enteroglial cell,true
+retina_target_row_0550,eye photoreceptor cell,true
+retina_target_row_0551,eye photoreceptor cell,true
+retina_target_row_0552,enteroglial cell,true
+retina_target_row_0553,eye photoreceptor cell,true
+retina_target_row_0554,enteroglial cell,true
+retina_target_row_0555,eye photoreceptor cell,true
+retina_target_row_0556,radial glial cell,false
+retina_target_row_0557,eye photoreceptor cell,true
+retina_target_row_0558,enteroglial cell,true
+retina_target_row_0559,enteroglial cell,true
+retina_target_row_0560,enteroglial cell,true
+retina_target_row_0561,eye photoreceptor cell,true
+retina_target_row_0562,eye photoreceptor cell,true
+retina_target_row_0563,enteroglial cell,true
+retina_target_row_0564,enteroglial cell,true
+retina_target_row_0565,enteroglial cell,true
+retina_target_row_0566,enteroglial cell,true
+retina_target_row_0567,eye photoreceptor cell,true
+retina_target_row_0568,eye photoreceptor cell,true
+retina_target_row_0569,eye photoreceptor cell,true
+retina_target_row_0570,retinal bipolar neuron,true
+retina_target_row_0571,enteroglial cell,true
+retina_target_row_0572,enteroglial cell,true
+retina_target_row_0573,eye photoreceptor cell,true
+retina_target_row_0574,enteroglial cell,true
+retina_target_row_0575,neuron,true
+retina_target_row_0576,eye photoreceptor cell,true
+retina_target_row_0577,enteroglial cell,true
+retina_target_row_0578,eye photoreceptor cell,true
+retina_target_row_0579,eye photoreceptor cell,true
+retina_target_row_0580,eye photoreceptor cell,true
+retina_target_row_0581,eye photoreceptor cell,true
+retina_target_row_0582,enteroglial cell,true
+retina_target_row_0583,eye photoreceptor cell,true
+retina_target_row_0584,enteroglial cell,true
+retina_target_row_0585,enteroglial cell,true
+retina_target_row_0586,enteroglial cell,true
+retina_target_row_0587,retinal bipolar neuron,true
+retina_target_row_0588,eye photoreceptor cell,true
+retina_target_row_0589,eye photoreceptor cell,true
+retina_target_row_0590,eye photoreceptor cell,true
+retina_target_row_0591,eye photoreceptor cell,true
+retina_target_row_0592,eye photoreceptor cell,true
+retina_target_row_0593,enteroglial cell,true
+retina_target_row_0594,enteroglial cell,true
+retina_target_row_0595,eye photoreceptor cell,true
+retina_target_row_0596,eye photoreceptor cell,true
+retina_target_row_0597,enteroglial cell,true
+retina_target_row_0598,enteroglial cell,true
+retina_target_row_0599,enteroglial cell,true
+retina_target_row_0600,enteroglial cell,true
+retina_target_row_0601,eye photoreceptor cell,true
+retina_target_row_0602,enteroglial cell,true
+retina_target_row_0603,enteroglial cell,true
+retina_target_row_0604,eye photoreceptor cell,true
+retina_target_row_0605,eye photoreceptor cell,true
+retina_target_row_0606,eye photoreceptor cell,true
+retina_target_row_0607,enteroglial cell,true
+retina_target_row_0608,eye photoreceptor cell,true
+retina_target_row_0609,eye photoreceptor cell,true
+retina_target_row_0610,neuron,true
+retina_target_row_0611,eye photoreceptor cell,true
+retina_target_row_0612,neuron,true
+retina_target_row_0613,enteroglial cell,true
+retina_target_row_0614,eye photoreceptor cell,true
+retina_target_row_0615,enteroglial cell,true
+retina_target_row_0616,eye photoreceptor cell,true
+retina_target_row_0617,eye photoreceptor cell,true
+retina_target_row_0618,eye photoreceptor cell,true
+retina_target_row_0619,enteroglial cell,true
+retina_target_row_0620,eye photoreceptor cell,true
+retina_target_row_0621,eye photoreceptor cell,true
+retina_target_row_0622,enteroglial cell,true
+retina_target_row_0623,enteroglial cell,true
+retina_target_row_0624,enteroglial cell,true
+retina_target_row_0625,eye photoreceptor cell,true
+retina_target_row_0626,eye photoreceptor cell,true
+retina_target_row_0627,eye photoreceptor cell,true
+retina_target_row_0628,neuron,true
+retina_target_row_0629,eye photoreceptor cell,true
+retina_target_row_0630,eye photoreceptor cell,true
+retina_target_row_0631,eye photoreceptor cell,true
+retina_target_row_0632,enteroglial cell,true
+retina_target_row_0633,eye photoreceptor cell,true
+retina_target_row_0634,eye photoreceptor cell,true
+retina_target_row_0635,enteroglial cell,true
+retina_target_row_0636,eye photoreceptor cell,true
+retina_target_row_0637,eye photoreceptor cell,true
+retina_target_row_0638,eye photoreceptor cell,true
+retina_target_row_0639,eye photoreceptor cell,true
+retina_target_row_0640,eye photoreceptor cell,true
+retina_target_row_0641,eye photoreceptor cell,true
+retina_target_row_0642,enteroglial cell,true
+retina_target_row_0643,eye photoreceptor cell,true
+retina_target_row_0644,eye photoreceptor cell,true
+retina_target_row_0645,eye photoreceptor cell,true
+retina_target_row_0646,eye photoreceptor cell,true
+retina_target_row_0647,eye photoreceptor cell,true
+retina_target_row_0648,eye photoreceptor cell,true
+retina_target_row_0649,eye photoreceptor cell,true
+retina_target_row_0650,enteroglial cell,true
+retina_target_row_0651,eye photoreceptor cell,true
+retina_target_row_0652,eye photoreceptor cell,true
+retina_target_row_0653,enteroglial cell,true
+retina_target_row_0654,enteroglial cell,true
+retina_target_row_0655,eye photoreceptor cell,true
+retina_target_row_0656,enteroglial cell,true
+retina_target_row_0657,eye photoreceptor cell,true
+retina_target_row_0658,enteroglial cell,true
+retina_target_row_0659,enteroglial cell,true
+retina_target_row_0660,enteroglial cell,true
+retina_target_row_0661,enteroglial cell,true
+retina_target_row_0662,enteroglial cell,true
+retina_target_row_0663,eye photoreceptor cell,true
+retina_target_row_0664,neuron,true
+retina_target_row_0665,eye photoreceptor cell,true
+retina_target_row_0666,enteroglial cell,true
+retina_target_row_0667,enteroglial cell,true
+retina_target_row_0668,enteroglial cell,true
+retina_target_row_0669,eye photoreceptor cell,true
+retina_target_row_0670,eye photoreceptor cell,true
+retina_target_row_0671,eye photoreceptor cell,true
+retina_target_row_0672,eye photoreceptor cell,true
+retina_target_row_0673,enteroglial cell,true
+retina_target_row_0674,retinal bipolar neuron,true
+retina_target_row_0675,eye photoreceptor cell,true
+retina_target_row_0676,eye photoreceptor cell,true
+retina_target_row_0677,eye photoreceptor cell,true
+retina_target_row_0678,eye photoreceptor cell,true
+retina_target_row_0679,enteroglial cell,true
+retina_target_row_0680,enteroglial cell,true
+retina_target_row_0681,eye photoreceptor cell,true
+retina_target_row_0682,eye photoreceptor cell,true
+retina_target_row_0683,retinal bipolar neuron,true
+retina_target_row_0684,eye photoreceptor cell,true
+retina_target_row_0685,eye photoreceptor cell,true
+retina_target_row_0686,eye photoreceptor cell,true
+retina_target_row_0687,eye photoreceptor cell,true
+retina_target_row_0688,eye photoreceptor cell,true
+retina_target_row_0689,eye photoreceptor cell,true
+retina_target_row_0690,enteroglial cell,true
+retina_target_row_0691,retinal bipolar neuron,true
+retina_target_row_0692,enteroglial cell,true
+retina_target_row_0693,enteroglial cell,true
+retina_target_row_0694,enteroglial cell,true
+retina_target_row_0695,eye photoreceptor cell,true
+retina_target_row_0696,enteroglial cell,true
+retina_target_row_0697,enteroglial cell,true
+retina_target_row_0698,eye photoreceptor cell,true
+retina_target_row_0699,neuron,true
+retina_target_row_0700,eye photoreceptor cell,true
+retina_target_row_0701,eye photoreceptor cell,true
+retina_target_row_0702,eye photoreceptor cell,true
+retina_target_row_0703,eye photoreceptor cell,true
+retina_target_row_0704,eye photoreceptor cell,true
+retina_target_row_0705,eye photoreceptor cell,true
+retina_target_row_0706,enteroglial cell,true
+retina_target_row_0707,eye photoreceptor cell,true
+retina_target_row_0708,eye photoreceptor cell,true
+retina_target_row_0709,eye photoreceptor cell,true
+retina_target_row_0710,enteroglial cell,true
+retina_target_row_0711,eye photoreceptor cell,true
+retina_target_row_0712,eye photoreceptor cell,true
+retina_target_row_0713,eye photoreceptor cell,true
+retina_target_row_0714,eye photoreceptor cell,true
+retina_target_row_0715,eye photoreceptor cell,true
+retina_target_row_0716,enteroglial cell,true
+retina_target_row_0717,neuron,true
+retina_target_row_0718,neuron,true
+retina_target_row_0719,eye photoreceptor cell,true
+retina_target_row_0720,eye photoreceptor cell,true
+retina_target_row_0721,eye photoreceptor cell,true
+retina_target_row_0722,enteroglial cell,true
+retina_target_row_0723,enteroglial cell,true
+retina_target_row_0724,enteroglial cell,true
+retina_target_row_0725,eye photoreceptor cell,true
+retina_target_row_0726,eye photoreceptor cell,true
+retina_target_row_0727,neuron,true
+retina_target_row_0728,eye photoreceptor cell,true
+retina_target_row_0729,radial glial cell,false
+retina_target_row_0730,eye photoreceptor cell,true
+retina_target_row_0731,eye photoreceptor cell,true
+retina_target_row_0732,eye photoreceptor cell,true
+retina_target_row_0733,eye photoreceptor cell,true
+retina_target_row_0734,eye photoreceptor cell,true
+retina_target_row_0735,eye photoreceptor cell,true
+retina_target_row_0736,enteroglial cell,true
+retina_target_row_0737,enteroglial cell,true
+retina_target_row_0738,enteroglial cell,true
+retina_target_row_0739,eye photoreceptor cell,true
+retina_target_row_0740,eye photoreceptor cell,true
+retina_target_row_0741,eye photoreceptor cell,true
+retina_target_row_0742,enteroglial cell,true
+retina_target_row_0743,eye photoreceptor cell,true
+retina_target_row_0744,enteroglial cell,true
+retina_target_row_0745,eye photoreceptor cell,true
+retina_target_row_0746,eye photoreceptor cell,true
+retina_target_row_0747,eye photoreceptor cell,true
+retina_target_row_0748,eye photoreceptor cell,true
+retina_target_row_0749,eye photoreceptor cell,true
+retina_target_row_0750,eye photoreceptor cell,true
+retina_target_row_0751,eye photoreceptor cell,true
+retina_target_row_0752,eye photoreceptor cell,true
+retina_target_row_0753,eye photoreceptor cell,true
+retina_target_row_0754,enteroglial cell,true
+retina_target_row_0755,enteroglial cell,true
+retina_target_row_0756,enteroglial cell,true
+retina_target_row_0757,eye photoreceptor cell,true
+retina_target_row_0758,enteroglial cell,true
+retina_target_row_0759,eye photoreceptor cell,true
+retina_target_row_0760,eye photoreceptor cell,true
+retina_target_row_0761,eye photoreceptor cell,true
+retina_target_row_0762,eye photoreceptor cell,true
+retina_target_row_0763,enteroglial cell,true
+retina_target_row_0764,eye photoreceptor cell,true
+retina_target_row_0765,eye photoreceptor cell,true
+retina_target_row_0766,eye photoreceptor cell,true
+retina_target_row_0767,enteroglial cell,true
+retina_target_row_0768,enteroglial cell,true
+retina_target_row_0769,enteroglial cell,true
+retina_target_row_0770,eye photoreceptor cell,true
+retina_target_row_0771,enteroglial cell,true
+retina_target_row_0772,eye photoreceptor cell,true
+retina_target_row_0773,eye photoreceptor cell,true
+retina_target_row_0774,enteroglial cell,true
+retina_target_row_0775,eye photoreceptor cell,true
+retina_target_row_0776,eye photoreceptor cell,true
+retina_target_row_0777,eye photoreceptor cell,true
+retina_target_row_0778,eye photoreceptor cell,true
+retina_target_row_0779,enteroglial cell,true
+retina_target_row_0780,enteroglial cell,true
+retina_target_row_0781,enteroglial cell,true
+retina_target_row_0782,eye photoreceptor cell,true
+retina_target_row_0783,enteroglial cell,true
+retina_target_row_0784,eye photoreceptor cell,true
+retina_target_row_0785,eye photoreceptor cell,true
+retina_target_row_0786,eye photoreceptor cell,true
+retina_target_row_0787,eye photoreceptor cell,true
+retina_target_row_0788,enteroglial cell,true
+retina_target_row_0789,eye photoreceptor cell,true
+retina_target_row_0790,retinal bipolar neuron,true
+retina_target_row_0791,eye photoreceptor cell,true
+retina_target_row_0792,eye photoreceptor cell,true
+retina_target_row_0793,enteroglial cell,true
+retina_target_row_0794,eye photoreceptor cell,true
+retina_target_row_0795,enteroglial cell,true
+retina_target_row_0796,enteroglial cell,true
+retina_target_row_0797,eye photoreceptor cell,true
+retina_target_row_0798,eye photoreceptor cell,true
+retina_target_row_0799,enteroglial cell,true
+retina_target_row_0800,enteroglial cell,true
+retina_target_row_0801,eye photoreceptor cell,true
+retina_target_row_0802,eye photoreceptor cell,true
+retina_target_row_0803,eye photoreceptor cell,true
+retina_target_row_0804,eye photoreceptor cell,true
+retina_target_row_0805,eye photoreceptor cell,true
+retina_target_row_0806,radial glial cell,false
+retina_target_row_0807,retina horizontal cell,false
+retina_target_row_0808,radial glial cell,false
+retina_target_row_0809,retina horizontal cell,false
+retina_target_row_0810,radial glial cell,false
+retina_target_row_0811,radial glial cell,false
+retina_target_row_0812,retina horizontal cell,false
+retina_target_row_0813,radial glial cell,false
+retina_target_row_0814,radial glial cell,false
+retina_target_row_0815,radial glial cell,false
+retina_target_row_0816,radial glial cell,false
+retina_target_row_0817,retina horizontal cell,false
+retina_target_row_0818,radial glial cell,false
