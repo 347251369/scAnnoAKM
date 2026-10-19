@@ -1,0 +1,220 @@
+{
+  "schema_version": 1,
+  "dataset": "retina",
+  "seed": 42,
+  "test_cells": 819,
+  "seen_cells": 801,
+  "unseen_cells": 18,
+  "validation_device": "cpu",
+  "batch_size": 1,
+  "cpu_threads": 4,
+  "strict_load": {
+    "passed": true,
+    "missing_keys": [],
+    "unexpected_keys": [],
+    "state_entries": 569
+  },
+  "checkpoint_sha256": "ee1e8513cfec466dc2c2ec222bee1af7ac5d26fea3a4bb905a1f62fa4c915a55",
+  "checkpoint_bytes": 980379474,
+  "actual_correct_cells": 805,
+  "metrics": {
+    "all": {
+      "cells": 819,
+      "accuracy": 0.9829059829059829,
+      "weighted_precision": 0.9778480056994929,
+      "weighted_recall": 0.982905982905983,
+      "weighted_f1": 0.9779545697420454
+    },
+    "seen": {
+      "cells": 801,
+      "accuracy": 0.9987515605493134,
+      "weighted_precision": 0.998755749943443,
+      "weighted_recall": 0.9987515605493134,
+      "weighted_f1": 0.9987398704800272
+    },
+    "unseen": {
+      "cells": 18,
+      "accuracy": 0.2777777777777778,
+      "weighted_precision": 0.7222222222222222,
+      "weighted_recall": 0.2777777777777778,
+      "weighted_f1": 0.4012345679012346
+    }
+  },
+  "paper_comparison": {
+    "coarse_prediction": {
+      "matching_cells": 819,
+      "mismatching_source_rows": [],
+      "fresh_canonical_sha256": "b4c7ff9c8114bd3504549f015d385258aed48bd91fe528f2c263c71e793608e4",
+      "paper_canonical_sha256": "b4c7ff9c8114bd3504549f015d385258aed48bd91fe528f2c263c71e793608e4"
+    },
+    "fine_prediction": {
+      "matching_cells": 819,
+      "mismatching_source_rows": [],
+      "fresh_canonical_sha256": "a9c4dbaf2f2f8640643685a19930d6259383b95d93fa4ca2d114e9c815d10403",
+      "paper_canonical_sha256": "a9c4dbaf2f2f8640643685a19930d6259383b95d93fa4ca2d114e9c815d10403"
+    },
+    "prediction": {
+      "matching_cells": 819,
+      "mismatching_source_rows": [],
+      "fresh_canonical_sha256": "a9c4dbaf2f2f8640643685a19930d6259383b95d93fa4ca2d114e9c815d10403",
+      "paper_canonical_sha256": "a9c4dbaf2f2f8640643685a19930d6259383b95d93fa4ca2d114e9c815d10403"
+    },
+    "used_coarse": {
+      "matching_cells": 819,
+      "mismatching_source_rows": [],
+      "fresh_canonical_sha256": "de16253d4e6116f4821e88b82691db6d3856f07cd98593fb2bc3153d469761fb",
+      "paper_canonical_sha256": "de16253d4e6116f4821e88b82691db6d3856f07cd98593fb2bc3153d469761fb"
+    }
+  },
+  "historical_score_comparison": {
+    "coarse_logits": {
+      "max_absolute_difference": 1.2874603271484375e-05,
+      "mean_absolute_difference": 7.150199508032529e-07,
+      "argmax_matching_cells": 819,
+      "reference_dtype": "float32"
+    },
+    "mk_disc": {
+      "max_absolute_difference": 0.0006593763828277588,
+      "mean_absolute_difference": 2.8517766622826457e-05,
+      "argmax_matching_cells": 819,
+      "reference_dtype": "float32"
+    },
+    "tk_disc": {
+      "max_absolute_difference": 0.001614212989807129,
+      "mean_absolute_difference": 8.589361823396757e-05,
+      "argmax_matching_cells": 611,
+      "reference_dtype": "float32"
+    },
+    "rk_disc": {
+      "max_absolute_difference": 0.0014798641204833984,
+      "mean_absolute_difference": 6.578151078429073e-05,
+      "argmax_matching_cells": 819,
+      "reference_dtype": "float32"
+    }
+  },
+  "original_model_pilot_comparison": {
+    "coarse_logits": {
+      "max_absolute_difference": 0.0,
+      "argmax_matching_cells": 6
+    },
+    "mk_disc": {
+      "max_absolute_difference": 0.0,
+      "argmax_matching_cells": 6
+    },
+    "tk_disc": {
+      "max_absolute_difference": 0.0,
+      "argmax_matching_cells": 6
+    },
+    "rk_disc": {
+      "max_absolute_difference": 0.0,
+      "argmax_matching_cells": 6
+    }
+  },
+  "runtime_versions": {
+    "torch": "2.10.0",
+    "transformers": "5.5.4",
+    "numpy": "2.3.5",
+    "tokenizers": "0.22.2",
+    "safetensors": "0.7.0",
+    "huggingface-hub": "1.11.0"
+  },
+  "runtime_torch_build": "2.10.0+cu128",
+  "baseline_current_model_sha256": "f80f59958709d5ec56b7f763e65e68d4156a5237395a66fe7109572a4b4b70fb",
+  "policy": "Recovered paper NumPy AND router, fixed weights 0.15/0.30/0.55; probability>=0.25, population-standardized margin>=2.5, normalized entropy<=0.25. Neural forward matches current model; this policy differs from the local delta=0.2 entry point.",
+  "local_model_execution_performed": false,
+  "code_sha256": {
+    "model.py": "6dc740c0e413403b3fe9be89d950826e9e3beed06572dbcd97ab8e8bf5071670",
+    "run_demo.py": "6ee5e24582dc246cc4946dd63073090f59a0889f50b820d0a5ecd2dfc1c0fea3"
+  },
+  "passed": true,
+  "local_checkpoint_sha256_verified": true,
+  "delivery_date": "2026-10-19",
+  "package_files": {
+    ".gitignore": {
+      "bytes": 63,
+      "sha256": "9ecab265d051020ccae6faaa884c8e947f8935f705cf8562114295b2bb3b4bc0"
+    },
+    "config.json": {
+      "bytes": 905,
+      "sha256": "c199e067c65d605a533c72d0764edfab93ecd0940054718b68e82322733ce1e8"
+    },
+    "download_weights.py": {
+      "bytes": 2828,
+      "sha256": "17fe09052b2f2fac0bba19af0c90d26aea0bccce0dfafd6c41336d547d7db184"
+    },
+    "examples/evaluation_labels.csv": {
+      "bytes": 40384,
+      "sha256": "6b0b8a4e06ddf3c40fdca8866387fd97cf2a1efa1d094b1ba9db481d9e786a69"
+    },
+    "examples/ranked_genes.jsonl": {
+      "bytes": 27647101,
+      "sha256": "d935bc4cd642d91bfdbaf4d3ba61e40d645e5252bf1172b209f3f48bf22f069c"
+    },
+    "model.py": {
+      "bytes": 16232,
+      "sha256": "6dc740c0e413403b3fe9be89d950826e9e3beed06572dbcd97ab8e8bf5071670"
+    },
+    "models/biobert/config.json": {
+      "bytes": 1110,
+      "sha256": "a51b82d83d616bffaea11e629c4c82cca1e71b71460f133d55ebb4444ee9582e"
+    },
+    "models/gene_token_dictionary.json": {
+      "bytes": 556554,
+      "sha256": "3a3455ecc341b61f75bd45881af51b18f53e298ee657b1a6c2a2de097822e3be"
+    },
+    "models/geneformer/config.json": {
+      "bytes": 590,
+      "sha256": "467d4492f0dd53b4d60afffe20812db484ca1cf9fdbeb6a6e060e93564f70859"
+    },
+    "models/tokenizer/special_tokens_map.json": {
+      "bytes": 132,
+      "sha256": "3c3507f36dff57bce437223db3b3081d1e2b52ec3e56ee55438193ecb2c94dd6"
+    },
+    "models/tokenizer/tokenizer_config.json": {
+      "bytes": 1299,
+      "sha256": "dc4e62287e74f12618d0e86a8b9e784a5243addf98ba490d0906ec83030f4e9f"
+    },
+    "models/tokenizer/vocab.txt": {
+      "bytes": 262030,
+      "sha256": "b49e80874c5efbc7f4cde245a812673b05ef1360ced56b8bc8c750eaeef3fe0f"
+    },
+    "provenance.json": {
+      "bytes": 8392,
+      "sha256": "ed55d91135daeeb6b42663f676bc7d6db42b54a4e1a5ac02a4c118dd302db3e8"
+    },
+    "requirements.txt": {
+      "bytes": 109,
+      "sha256": "cf75b43c1dc1f35cdb3fa53419fef8a09735f42acdf5e3f67c3ee92e01b7be5c"
+    },
+    "resources/cell_knowledge.json": {
+      "bytes": 8493,
+      "sha256": "25eac32b15946026d1ac752f8a42fbe024caf7204d53c5843cb788e7f1074190"
+    },
+    "resources/gene_info.json": {
+      "bytes": 17944,
+      "sha256": "edb665c046fcf455f69389297073d53bfd17700d4e58c92143a16af22fb8d485"
+    },
+    "run_demo.py": {
+      "bytes": 16290,
+      "sha256": "6ee5e24582dc246cc4946dd63073090f59a0889f50b820d0a5ecd2dfc1c0fea3"
+    },
+    "run_demo.sh": {
+      "bytes": 1408,
+      "sha256": "bac9a80beb11ae080d3ae549839b527722f2ec5e10bbfca4d916a151468cd7cc"
+    },
+    "RUN_DEMO.txt": {
+      "bytes": 59,
+      "sha256": "8fc373df48779b098bfbcb80b7fa83d8cfdfb87f21c4eed03ffbc76f9c4be6a8"
+    },
+    "weights/train_model_seed42.pth": {
+      "bytes": 980379474,
+      "sha256": "ee1e8513cfec466dc2c2ec222bee1af7ac5d26fea3a4bb905a1f62fa4c915a55"
+    }
+  },
+  "distribution": {
+    "checkpoint_storage": "GitHub Release asset",
+    "checkpoint_url": "https://github.com/347251369/scAnnoAKM/releases/download/retina-seed42-demo-v1/train_model_seed42.pth",
+    "auto_download_and_sha256_verification": true,
+    "neural_inference_code_unchanged": true
+  }
+}
