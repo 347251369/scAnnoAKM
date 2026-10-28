@@ -1,0 +1,46 @@
+{
+  "seed": 42,
+  "seq_len": 2000,
+  "marker_len": 50,
+  "class_order": [
+    "eye photoreceptor cell",
+    "enteroglial cell",
+    "neuron",
+    "retinal bipolar neuron",
+    "radial glial cell",
+    "retina horizontal cell"
+  ],
+  "checkpoint": "weights/train_model_seed42.pth",
+  "gene_info": "resources/gene_info.json",
+  "cell_knowledge": "resources/cell_knowledge.json",
+  "input": "examples/ranked_genes.jsonl",
+  "models": {
+    "biobert_config": "models/biobert/config.json",
+    "tokenizer": "models/tokenizer",
+    "gene_token_dictionary": "models/gene_token_dictionary.json",
+    "geneformer_config": "models/geneformer/config.json"
+  },
+  "attention_implementation": "sdpa",
+  "inference_policy": "full24_calibrated_fusion_raw_logit_pool",
+  "known_labels": [
+    "eye photoreceptor cell",
+    "enteroglial cell",
+    "neuron",
+    "retinal bipolar neuron"
+  ],
+  "dynamic_length": true,
+  "dynamic_marker_length": true,
+  "fixed_view_weights": [
+    0.15,
+    0.3,
+    0.55
+  ],
+  "marker_evidence_weight": 0.5,
+  "seen_bias": 1.1,
+  "transcriptome_weight": 0.25,
+  "router_prob": 0.25,
+  "router_margin": 2.5,
+  "router_entropy": 0.25,
+  "checkpoint_sha256": "cc3634a86f264a290864aca8308d2e6472c97a012bc7a95f085d01388b8142ec",
+  "checkpoint_bytes": 980380528
+}

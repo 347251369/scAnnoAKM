@@ -1,0 +1,14 @@
+Dataset: Spatial proteogenomics reveals distinct and evolutionarily conserved hepatic macrophage niches
+Subset title: Myeloid cells from human liver dataset
+Tissue: liver
+Disease: normal
+Assay: 10x 3' v2; 10x 3' v3
+Organism: Homo sapiens
+Cells: 40,821
+Genes: 30,172
+Donors: 14
+Cell-type categories in data.h5ad: 7
+Cell-type categories used in this project: 4
+Used cell types: monocyte; non-classical monocyte; Kupffer cell; plasmacytoid dendritic cell
+Source DOI: https://doi.org/10.1016/j.cell.2021.12.018
+CELLxGENE collection: https://cellxgene.cziscience.com/collections/74e10dc4-cbb2-4605-a189-8a1cd8e44d8c

@@ -1,0 +1,145 @@
+{
+  "schema_version": 2,
+  "version": "retina-seed42-demo",
+  "dataset": "retina",
+  "seed": 42,
+  "passed": true,
+  "test_cells": 819,
+  "seen_cells": 801,
+  "unseen_cells": 18,
+  "validation_device": "cuda",
+  "batch_size": 32,
+  "cpu_threads": 4,
+  "checkpoint_sha256": "cc3634a86f264a290864aca8308d2e6472c97a012bc7a95f085d01388b8142ec",
+  "checkpoint_bytes": 980380528,
+  "strict_load": {
+    "passed": true,
+    "state_entries": 569,
+    "missing_keys": [],
+    "unexpected_keys": []
+  },
+  "actual_correct_cells": 789,
+  "metrics": {
+    "all": {
+      "cells": 819,
+      "accuracy": 0.9633699633699634,
+      "weighted_precision": 0.9839161874876161,
+      "weighted_recall": 0.9633699633699634,
+      "weighted_f1": 0.9721704254783708
+    },
+    "seen": {
+      "cells": 801,
+      "accuracy": 0.9662921348314607,
+      "weighted_precision": 0.9987473428484663,
+      "weighted_recall": 0.9662921348314607,
+      "weighted_f1": 0.9821208051158453
+    },
+    "unseen": {
+      "cells": 18,
+      "accuracy": 0.8333333333333334,
+      "weighted_precision": 1,
+      "weighted_recall": 0.8333333333333333,
+      "weighted_f1": 0.8809523809523809
+    }
+  },
+  "source_prediction_comparison": {
+    "matching_cells": 819,
+    "mismatching_cells": 0,
+    "score_matrices": {
+      "coarse_logits": {
+        "max_abs": 0,
+        "argmax_matches": 819
+      },
+      "mk_disc": {
+        "max_abs": 0,
+        "argmax_matches": 819
+      },
+      "tk_disc": {
+        "max_abs": 0,
+        "argmax_matches": 819
+      },
+      "rk_disc": {
+        "max_abs": 0,
+        "argmax_matches": 819
+      },
+      "marker_evidence": {
+        "max_abs": 0,
+        "argmax_matches": 819
+      },
+      "mk_fused": {
+        "max_abs": 0,
+        "argmax_matches": 819
+      },
+      "fine_score": {
+        "max_abs": 0,
+        "argmax_matches": 819
+      },
+      "final_probabilities": {
+        "max_abs": 0,
+        "argmax_matches": 819
+      }
+    }
+  },
+  "cached_cpu_fusion_replay": {
+    "passed": true,
+    "cached_cells": 819,
+    "prediction_matches": 819,
+    "correct_cells": 789,
+    "metrics": {
+      "cells": 819,
+      "accuracy": 0.9633699633699634,
+      "weighted_precision": 0.9839161874876161,
+      "weighted_recall": 0.9633699633699634,
+      "weighted_f1": 0.9721704254783708
+    },
+    "matrix_checks": {
+      "mk_fused": {
+        "max_abs": 2.384185791015625e-7,
+        "allclose_atol": 0.00001,
+        "allclose_rtol": 0.00001
+      },
+      "fine_score": {
+        "max_abs": 2.384185791015625e-7,
+        "allclose_atol": 0.00001,
+        "allclose_rtol": 0.00001
+      },
+      "final_probabilities": {
+        "max_abs": 1.1920928955078125e-7,
+        "allclose_atol": 0.00001,
+        "allclose_rtol": 0.00001
+      }
+    },
+    "mapped_genes": 644,
+    "model_forward_executed": false,
+    "training_executed": false
+  },
+  "runtime_versions": {
+    "torch": "2.10.0+cu128",
+    "numpy": "2.3.5"
+  },
+  "model_forward_executed": true,
+  "training_executed": false,
+  "resource_verification": {
+    "returncode": 0,
+    "owned_survivors": [],
+    "positive_rss_samples": 347,
+    "gpu_samples": 347,
+    "peak_tree_rss_bytes": 3001008128,
+    "peak_gpu_used_bytes": 7655718912
+  },
+  "code_sha256": {
+    "model.py": "bc06cc6881c0f85308d7620ea4c69c7efa122dd9c45b301b48eeca4e1363ce46",
+    "run_demo.py": "d59daf12b87743dec828b34ffb71377f99c916661eded3a67ef5235326205d3a",
+    "download_weights.py": "4a270bd872aa7fce95d1bb985ad525bfca31f5a850d911281fd1a9af3f6c0e31",
+    "run_demo.sh": "525f17acac171d655092c0b3b5fc1985bd6133cbf3ccf78125dc808113ab32cb"
+  },
+  "limitations": [
+    "Knowledge is query-label-assisted and the result is exploratory within-dataset.",
+    "The unseen subset contains 18 cells."
+  ],
+  "distribution": {
+    "checkpoint_storage": "GitHub Release asset",
+    "checkpoint_url": "https://github.com/347251369/scAnnoAKM/releases/download/retina-seed42-demo/train_model_seed42.pth",
+    "auto_download_and_sha256_verification": true
+  }
+}
