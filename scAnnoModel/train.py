@@ -65,7 +65,6 @@ def get_coarse_labels(batch_labels, cell_knowledge):
     return torch.tensor(label_ids, dtype=torch.long)
 
 def get_marker_labels(batch_gene_ids, gene_markers, device):
-    B, L = batch_gene_ids.shape
     if gene_markers.dim() == 2:
         gene_markers = gene_markers.unsqueeze(0)
 
@@ -185,7 +184,6 @@ def train_model(model, cell_knowledge, gene_info, gene_knowledge, ref_seqs, ref_
             role_loss = (F.binary_cross_entropy_with_logits(role_view_logits, role_labels, reduction="none") * matching_valid).sum() / matching_count
 
 
-            B = len(batch_indices)
             pos_w = position_weights(batch_length, model.device)
             mk_raw = (marker_view_logits * pos_w).sum(dim=-1)
             tk_raw = (tissue_view_logits * pos_w).sum(dim=-1)

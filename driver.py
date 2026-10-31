@@ -49,13 +49,10 @@ class train_Config:
         self.weight_decay = 5e-3
         self.gradient_clip_norm = 2.0
         self.fixed_view_weights = (0.15, 0.30, 0.55)
-        self.calibrated_fusion = True
         self.marker_evidence_weight = 0.5
         self.seen_bias = 1.1
+        self.transcriptome_weight = 0.25
         self.reuse_pretrain = False
-        self.router_prob = 0.25
-        self.router_margin = 2.5
-        self.router_entropy = 0.25
         self.qva_acceptance_threshold = 0.80
         self.qva_max_rounds = 3
         self.score_dump_addr = f'results/{file_addr}/score_dump_seed{random_seed}.npz'
